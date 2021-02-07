@@ -104,7 +104,7 @@ def solution(entrances, exits, path):
     """
     find the solution of the exercise 1 at level 4 of the foo.bar challenge
 
-    return max flow capacity using Edmonds-Karp Algrithm
+    return max flow capacity using Edmonds-Karp Algorithm
     """
 
     add_source_and_sink(entrances, exits, path)
